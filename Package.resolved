@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "MqttCocoaAsyncSocket",
-        "repositoryURL": "https://github.com/leeway1208/MqttCocoaAsyncSocket",
+        "repositoryURL": "https://github.com/mahajansohan312/MqttCocoaAsyncSocket",
         "state": {
           "branch": null,
-          "revision": "ce3e18607fd01079495f86ff6195d8a3ca469f73",
-          "version": "1.0.8"
+          "revision": "be644a9a81afbf002a3faae4e1abd9b79076dcef",
+          "version": "1.0.10"
         }
       },
       {
